@@ -1,13 +1,55 @@
 # IT Asset Management System
 
+A web-based IT Asset Management System designed to help organizations manage IT assets, employees, assignments, and maintenance records.
+
 ## Project Status
 
-Development has started.
+🚧 In Development
 
-This project is being developed as a practical IT Asset Management System.
+## Overview
 
-## Current Focus
+The system is being developed as a practical software engineering project to demonstrate:
 
-- Learning Git and GitHub
-- Establishing a professional project structure
-- Building the system incrementally
+- Web development
+- Database design
+- SQL
+- PHP
+- Git
+- GitHub
+- Software architecture
+- IT asset management
+
+## Planned Features
+
+- Employee management
+- Department management
+- Asset management
+- Asset assignment
+- Asset tracking
+- Maintenance management
+- Dashboard
+- Authentication
+- Reporting
+
+## Technologies
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Project Structure
+
+```text
+assets/
+config/
+database/
+docs/
+includes/
+css/
+js/
+images/
+screenshots/
