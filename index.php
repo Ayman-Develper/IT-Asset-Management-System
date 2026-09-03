@@ -1,17 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT Asset Management System</title>
-</head>
-<body>
+<?php
+require_once __DIR__ . '/includes/header.php';
+?>
 
-    <h1>IT Asset Management System</h1>
+<h2>Dashboard</h2>
 
-    <p>Welcome to the IT Asset Management System.</p>
+<p>
+    Welcome to the IT Asset Management System.
+</p>
 
-    <p>This project is being built professionally while learning Git and GitHub.</p>
+<p>
+    Manage company IT assets, assignments,
+    employees, and maintenance records.
+</p>
 
-</body>
-</html>
+<a class="button" href="assets/">
+    Manage Assets
+</a>
+
+<?php
+require_once __DIR__ . '/includes/footer.php';
+?>
